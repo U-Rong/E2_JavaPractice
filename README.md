@@ -23,4 +23,4 @@ Java practice
 
 ## [文字解說](blog/index.html)
 
-![圖](pic/)
+![圖](圖的連結)
