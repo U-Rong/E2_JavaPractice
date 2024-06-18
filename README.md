@@ -20,4 +20,7 @@ Java practice
 <hr>
 
 [Google](http://www.google.com)
-  
+
+## [文字解說](blog/index.html)
+
+![圖](pic/)
