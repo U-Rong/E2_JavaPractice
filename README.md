@@ -23,4 +23,5 @@ Java practice
 
 ## [文字解說](blog/index.html)
 
-![圖](圖的連結)
+![圖](魏延.jpg)
+
