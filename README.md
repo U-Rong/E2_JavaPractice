@@ -13,8 +13,10 @@ Java practice
   ohohohoh<br>
   jeejeehee<br>
 
-<hr>
+<hr>//要隔行才有用
+
 [Yahoo](http://tw.yahoo.com)
 
+<br>
 [Google](http://www.google.com)
   
