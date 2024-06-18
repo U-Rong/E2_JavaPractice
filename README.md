@@ -17,6 +17,7 @@ Java practice
 
 [Yahoo](http://tw.yahoo.com)
 
-<br>
+<hr>
+
 [Google](http://www.google.com)
   
