@@ -13,7 +13,7 @@ Java practice
   ohohohoh<br>
   jeejeehee<br>
 
-<hr>//要隔行才有用
+<hr>//<hr>要隔行才有用
 
 [Yahoo](http://tw.yahoo.com)
 
