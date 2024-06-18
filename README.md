@@ -25,7 +25,7 @@ Java practice
 
 ![圖](魏延.jpg)
 
-<ul type="disk">
+
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
 <li>台北捷運木柵線</li>
